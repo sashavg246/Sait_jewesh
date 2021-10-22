@@ -3,7 +3,14 @@
     height: 100px;
     
 }
-
+.vesemir-img{
+    width:200px;
+    height:auto;
+}
+.nivellen-img{
+    width:200px;
+    height:auto;
+}
 html{
     margin:0;
     width: 100%;
