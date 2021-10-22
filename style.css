@@ -1,8 +1,6 @@
 .main{
     width:300px;
     height: 100px;
-<<<<<<< HEAD
-{
 	background-color: #FF0075;
 }
 
@@ -47,7 +45,6 @@
 	cursor: pointer;
 	transform: scaleY(2.0);
 }
-=======
     
 }
 .vesemir-img{
@@ -63,4 +60,3 @@ html{
     width: 100%;
     height: 100%;
 }
->>>>>>> 5e6f02682ad3c03339ea650f65571075a33b9571
