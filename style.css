@@ -1,5 +1,48 @@
 .main{
     width:300px;
     height: 100px;
-    background-color:red;
+{
+	background-color: #FF0075;
+}
+
+.skitalits{
+	display: inline-flex;
+}
+
+.geralt{
+	height: 200px;
+	width: 200px;
+	color: blue;
+}
+
+.enefer{
+	height: 200px;
+	width: 200px;
+	color: green;
+
+}
+
+.geralt-img{
+	height: 100px;
+	width: 100px;
+}
+
+.geralt-img:hover{
+	opacity: 75%;
+	cursor: pointer;
+	transition: .4s;
+}
+
+.enefer-img{
+	height: 100px;
+	width: 100px;
+}
+
+.enefer-img:hover{
+	opacity: 75%;
+	height: 100px;
+	width: 100px;
+	transition: .4s;
+	cursor: pointer;
+	transform: scaleY(2.0);
 }
