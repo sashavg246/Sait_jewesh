@@ -1,6 +1,7 @@
 .main{
     width:300px;
     height: 100px;
+<<<<<<< HEAD
     background-color: deeppink;
 
     
@@ -10,4 +11,7 @@ html{
     margin:0;
     width: 100%;
     height: 100%;
+=======
+    background-color:red;
+>>>>>>> 0bdceeec80d77bcb3f2323d6ca2bc3098f199978
 }
